@@ -18,6 +18,6 @@ git commit -m "feat: SOC L1 incident tracker v1.0"
 #    Set it Public or Private — your call
 
 # 6. Link and push
-git remote add origin https://github.com/YOUR_USERNAME/soc-incident-tracker.git
+git remote add origin https://github.com/Sabbirrahman43/soc.tracker
 git branch -M main
 git push -u origin main
